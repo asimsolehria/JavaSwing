@@ -1,0 +1,11 @@
+This is a file to demonstrate the 
+formatting of documents.
+
+Text can be underlined, big,
+bold, in italics or colored.
+One can use superscripts or
+subscripts. Text can be white
+on black, or even more colorful.
+
+The red text has two position markers
+around it.
